@@ -1,5 +1,12 @@
 # @backstage/core
 
+## 0.7.7
+
+### Patch Changes
+
+- 9afcac5af: Allow passing NavLinkProps to SidebarItem component to use in NavLink
+- 6eaecbd81: Improve owner example value in `MissingAnnotationEmptyState`.
+
 ## 0.7.6
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @backstage/plugin-sonarqube
 
+## 0.1.17
+
+### Patch Changes
+
+- c614ede9a: Updated README to have up-to-date install instructions.
+- Updated dependencies [9afcac5af]
+- Updated dependencies [6eaecbd81]
+  - @backstage/core@0.7.7
+
 ## 0.1.16
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @backstage/plugin-search
 
+## 0.3.5
+
+### Patch Changes
+
+- dcd54c7cd: Use `RouteRef` to generate path to search page.
+- Updated dependencies [9afcac5af]
+- Updated dependencies [6eaecbd81]
+  - @backstage/core@0.7.7
+
 ## 0.3.4
 
 ### Patch Changes

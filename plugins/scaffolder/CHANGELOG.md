@@ -1,5 +1,14 @@
 # @backstage/plugin-scaffolder
 
+## 0.9.2
+
+### Patch Changes
+
+- 19a4dd710: Removed unused `swr` dependency.
+- Updated dependencies [9afcac5af]
+- Updated dependencies [6eaecbd81]
+  - @backstage/core@0.7.7
+
 ## 0.9.1
 
 ### Patch Changes

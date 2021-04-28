@@ -1,5 +1,15 @@
 # @backstage/plugin-api-docs
 
+## 0.4.12
+
+### Patch Changes
+
+- c614ede9a: Updated README to have up-to-date install instructions.
+- 07a7806c3: Added fields filtering in get API entities to avoid the requesting of unused data
+- Updated dependencies [9afcac5af]
+- Updated dependencies [6eaecbd81]
+  - @backstage/core@0.7.7
+
 ## 0.4.11
 
 ### Patch Changes

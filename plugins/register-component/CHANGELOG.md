@@ -1,5 +1,14 @@
 # @backstage/plugin-register-component
 
+## 0.2.14
+
+### Patch Changes
+
+- c614ede9a: Updated README to have up-to-date install instructions.
+- Updated dependencies [9afcac5af]
+- Updated dependencies [6eaecbd81]
+  - @backstage/core@0.7.7
+
 ## 0.2.13
 
 ### Patch Changes
