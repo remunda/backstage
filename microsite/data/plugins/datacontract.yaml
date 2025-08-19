@@ -1,0 +1,12 @@
+---
+title: Data Contract
+author: Jan Remunda
+authorUrl: https://github.com/remunda/
+category: Discovery  
+description: Ingest and visualize Data Contracts withing your catalog in API Entities.
+documentation: https://github.com/remunda/backstage-plugins/blob/main/plugins/datacontract/README.md
+iconUrl: https://raw.githubusercontent.com/datacontract/datacontract-specification/refs/heads/main/images/favicon.png
+# You can provide an external url or add your logo under static/img and provide a path
+# relative to static/ e.g. /img/my-logo.png
+npmPackageName: '@remunda/backstage-plugin-datacontract'
+addedDate: '2025-08-19'
